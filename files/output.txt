@@ -1,0 +1,32 @@
+ORIGINAL CONTENT
+man , this was one wierd movie . 
+similar to conspiracy theory in that it couldn't decide which genre it is . 
+the first hour is your standard stock aliens clone , which nicely created an eerie atmosphere about the ship . 
+the last half hour ? 
+this was when the makers blew the script out the airlock and just decided - " screw it , let's just kill everybody " . 
+from then on - forget sci-fi . . . this 
+movie becomes 100% horror . 
+what really dissappointed me about this movie was that it tried to scare you in entirely the wrong way . 
+instead of using clever tricks or trying to build up to a scare - this movie just uses loud noises , sudden camera shifts and short quick bursts of gore . . . . . yawn . . . . everyone's 
+seen it all before and knows when to expect it . 
+the one thing that was done well was the lead up to finding out about what happened to the previous crew . 
+there are skeletons lying around mangled and mashed , but what did this ? 
+then finally after being painfully restored - the new crew views the video . 
+the acting isn't too bad at all . . . . . considering what the actors had to work with anyway , as there is no complex or interesting dialogue to speak of . 
+there was some very nice camerawork in certain sequences though , like when the hull near the bridge of the event horizon is breached and the camera pans back to follow specific objects as they bounce across the deck and are sucked out into space . 
+this movie could have been so much better . 
+it had a good experienced cast who deserved more to work with . 
+there was just nothing new here that any of us haven't seen before in aliens or hellraiser . 
+
+AFTER TOKENIZATION
+man this was one wierd movie similar to conspiracy theory in that it couldnt decide which genre it is the first hour is your standard stock aliens clone which nicely created an eerie atmosphere about the ship the last half hour this was when the makers blew the script out the airlock and just decided screw it lets just kill everybody from then on forget scifi this movie becomes horror what really dissappointed me about this movie was that it tried to scare you in entirely the wrong way instead of using clever tricks or trying to build up to a scare this movie just uses loud noises sudden camera shifts and short quick bursts of gore yawn everyones seen it all before and knows when to expect it the one thing that was done well was the lead up to finding out about what happened to the previous crew there are skeletons lying around mangled and mashed but what did this then finally after being painfully restored the new crew views the video the acting isnt too bad at all considering what the actors had to work with anyway as there is no complex or interesting dialogue to speak of there was some very nice camerawork in certain sequences though like when the hull near the bridge of the event horizon is breached and the camera pans back to follow specific objects as they bounce across the deck and are sucked out into space this movie could have been so much better it had a good experienced cast who deserved more to work with there was just nothing new here that any of us havent seen before in aliens or hellraiser 
+
+AFTER REMOVING STOPWORDS
+man was one wierd movie similar conspiracy theory couldnt decide genre is first hour is standard stock aliens clone nicely created eerie atmosphere ship last half hour was makers blew script airlock just decided screw just kill everybody forget scifi movie becomes horror really dissappointed movie was tried scare entirely wrong way instead using clever tricks trying build scare movie just uses loud noises sudden camera shifts short quick bursts gore yawn everyones seen knows expect one thing was done well was lead finding happened previous crew are skeletons lying around mangled mashed did finally painfully restored new crew views video acting isnt bad considering actors had work anyway is no complex interesting dialogue speak was nice camerawork certain sequences though like hull near bridge event horizon is breached camera pans back follow specific objects bounce across deck are sucked space movie could have been much better had good experienced cast deserved work was just nothing new us havent seen aliens hellraiser
+
+AFTER LEMMATIZATION
+man be one wierd movie similar conspiracy theory couldnt decide genre be first hour be standard stock alien clone nicely create eerie atmosphere ship last half hour be maker blow script airlock just decide screw just kill everybody forget scifus movie become horror really dissappointed movie be try scare entirely wrong way instead use clever trick try build scare movie just use loud noise sudden camera shift short quick burst gore yawn everyone see know expect one thing be do well be lead finding happen previous crew be skeleton lie around mangled mashed do finally painfully restore new crew view video act isnt bad consider actor have work anyway be no complex interesting dialogue speak be nice camerawork certain sequence though like hull near bridge event horizon be breach camera pan back follow specific object bounce across deck be suck space movie could have be much better have good experienced cast deserve work be just nothing new we havent see alien hellraiser
+
+WEIGHTS
+bad: 0.35, kill: 0.46, script: 0.47, know: 0.25, around: 0.41, movie: 0.38, painfully: 1.49, sudden: 0.98, follow: 0.61, dialogue: 0.75, lead: 0.43, similar: 0.98, way: 0.12, loud: 0.93, thing: 0.09, stock: 1.20, decide: 1.35, act: 0.02, anyway: 1.01, nicely: 1.23, use: 0.39, alien: 2.06, camerawork: 1.78, conspiracy: 1.78, view: 0.34, new: 0.69, wrong: 0.77, space: 1.01, standard: 1.13, actor: 0.34, just: 0.57, deserve: 0.96, complex: 1.08, burst: 1.56, experienced: 1.78, well: 0.22, though: 0.27, isnt: 0.51, cast: 0.37, nothing: 0.55, man: 0.02, expect: 0.57, hour: 1.27, screw: 1.42, back: 0.27, really: 0.34, couldnt: 0.93, build: 0.81, havent: 1.08, quick: 0.67, event: 0.63, deck: 1.56, theory: 1.66, bounce: 1.95, horizon: 1.95, noise: 2.24, skeleton: 2.24, 
+
